@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/foodjournal/static/css/main.6e1cdff9.css",
+    "main.js": "/foodjournal/static/js/main.04fe62db.js",
+    "index.html": "/foodjournal/index.html",
+    "main.6e1cdff9.css.map": "/foodjournal/static/css/main.6e1cdff9.css.map",
+    "main.04fe62db.js.map": "/foodjournal/static/js/main.04fe62db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e1cdff9.css",
+    "static/js/main.04fe62db.js"
+  ]
+}
